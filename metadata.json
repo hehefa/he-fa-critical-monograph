@@ -24,7 +24,7 @@
   "rights": "All rights reserved; publicly readable.",
   "doi": {
     "identifier": "10.5281/zenodo.23623320",
-    "status": "reserved_unpublished"
+    "status": "published"
   },
   "version_note": "以原 Gemini 评论为起点，经第一手资料核对后重新写作。保留观看、共同创作与档案的批评主线，补充合作署名，移除未经核实的精确时间码、人物心理推定与技术绝对保证。",
   "corrections": [
@@ -106,6 +106,12 @@
       "档案伦理"
     ],
     "copyrightNotice": "All rights reserved; publicly readable.",
-    "alternativeHeadline": "Who Can Bring the Work to a Halt? Viewing, Collective Creation, and Archives in He Fa’s Practice"
+    "alternativeHeadline": "Who Can Bring the Work to a Halt? Viewing, Collective Creation, and Archives in He Fa’s Practice",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23623320"
+    },
+    "sameAs": "https://doi.org/10.5281/zenodo.23623320"
   }
 }

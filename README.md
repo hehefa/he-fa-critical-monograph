@@ -2,7 +2,7 @@
 
 何发艺术实践中的观看、共同创作与档案。
 
-[网页版](https://hehefa.github.io/he-fa-critical-monograph/) · [PDF](article.pdf) · [Markdown](article.md) · [纯文本](article.txt)
+[网页版](https://hehefa.github.io/he-fa-critical-monograph/) · [Zenodo / DOI 10.5281/zenodo.23623320](https://doi.org/10.5281/zenodo.23623320) · [PDF](article.pdf) · [Markdown](article.md) · [纯文本](article.txt)
 
 # 谁能让作品停下来
 
