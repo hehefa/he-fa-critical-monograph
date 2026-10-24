@@ -1,0 +1,12 @@
+# 何发 / He Fa — 评论文献
+
+> 基于 Gemini 对话稿改写，何发整理发布。中文全文。
+
+- [文章全文](https://hehefa.github.io/he-fa-critical-monograph/): 谁能让作品停下来
+- [Markdown](https://hehefa.github.io/he-fa-critical-monograph/article.md)
+- [纯文本](https://hehefa.github.io/he-fa-critical-monograph/article.txt)
+- [PDF](https://hehefa.github.io/he-fa-critical-monograph/article.pdf)
+- [元数据](https://hehefa.github.io/he-fa-critical-monograph/metadata.json)
+- [原始 Gemini 对话](https://share.gemini.google/dZcp9dLbRktq)
+
+生成来源、编辑改写与版本限制见正文；不将此文表述为独立机构评审结论。

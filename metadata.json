@@ -1,0 +1,111 @@
+{
+  "title": "谁能让作品停下来",
+  "page_title": "谁能让作品停下来｜何发艺术实践中的观看、共同创作与档案",
+  "subtitle": "何发艺术实践中的观看、共同创作与档案",
+  "title_en": "Who Can Bring the Work to a Halt? Viewing, Collective Creation, and Archives in He Fa’s Practice",
+  "credit": "基于 Gemini 对话稿改写，何发整理发布",
+  "editor": "何发 / He Fa",
+  "source": "https://share.gemini.google/dZcp9dLbRktq",
+  "manuscript": "改写定稿.md",
+  "manuscript_sha256": "2dc5bec472361f870fba0e67e2f2b78974409c92d81f4dfa561484f8d156ccff",
+  "version": "1.0",
+  "edition": "改写版",
+  "date": "2026-10-25",
+  "language": "zh-CN",
+  "full_text_language": "中文",
+  "abstract_languages": [
+    "zh-CN",
+    "en"
+  ],
+  "abstract_zh": "何发的摄影、语言实验、P4剧场与电影实践，反复涉及一项具体工作：安排人们相遇的条件，再处理这些条件所产生的回应。本文从《山重水复》《Fafalish》《YourTube》《实像》及P4的共同制作出发，讨论图像的接缝、观看的位置与参与者的决定权，继而考察《人类投降派》中现场开放与成片选择之间的张力。《关系生成影像论》、影像随笔及数字档案被放回各自的版本与用途之中。文章主张，对这组实践的评价应当同时考察形式如何组织经验、合作怎样分配劳动，以及不同意见能否改变作品的下一步；“生成”与“非主权”不能预先替作品免除这些判断。",
+  "abstract_en": "He Fa’s work in photography, language experiments, P4 Theater and film repeatedly involves arranging the conditions of an encounter and working with the responses those conditions produce. This essay considers photographic seams, viewing positions and participants’ decision-making through Mountain upon Mountain, Fafalish, YourTube, Real Image and P4’s collaborative productions. It then examines the tension between openness during production and selection in the completed film Shoot Self with You. Relational Image Theory, retrospective video essays and digital archives are discussed in relation to their particular versions and uses. The essay proposes that these practices be assessed through the experience their forms produce, the distribution of collaborative labour, and the capacity of disagreement to change what happens next.",
+  "canonical_url": "https://hehefa.github.io/he-fa-critical-monograph/",
+  "peer_reviewed": false,
+  "rights": "All rights reserved; publicly readable.",
+  "doi": {
+    "identifier": "10.5281/zenodo.23623320",
+    "status": "reserved_unpublished"
+  },
+  "version_note": "以原 Gemini 评论为起点，经第一手资料核对后重新写作。保留观看、共同创作与档案的批评主线，补充合作署名，移除未经核实的精确时间码、人物心理推定与技术绝对保证。",
+  "corrections": [
+    "重写开篇、标题及六部分论证，以具体作品和公开文献支持判断。",
+    "区分参与照片公开的决定权、现场安排与成片剪辑权。",
+    "补回黄伊尹、曲文豪、北风剧社及3P成员的合作分工。",
+    "以P4U原始条款讨论创作开放与组织、发行权并存。",
+    "将AGT与《关系生成影像论》作为后出理论讨论，不倒推为全部早期作品的既定意图。",
+    "区分散列校验与防篡改、网页交互与服务端日志、整理年份与演出日期。"
+  ],
+  "core_video_links": [
+    "https://www.youtube.com/watch?v=2_9W2uRHgWM",
+    "https://www.youtube.com/watch?v=6fWDICcOKDE",
+    "https://www.youtube.com/watch?v=F1riPOyQuCI",
+    "https://www.youtube.com/watch?v=WUZDwlLO4to",
+    "https://www.youtube.com/watch?v=e_6FRaroiSM",
+    "https://www.youtube.com/watch?v=h2F6Bpk-9m8"
+  ],
+  "chinese_characters_in_body": 7993,
+  "schema_org": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "@id": "https://hehefa.github.io/he-fa-critical-monograph/#article",
+    "headline": "谁能让作品停下来",
+    "description": "何发的摄影、语言实验、P4剧场与电影实践，反复涉及一项具体工作：安排人们相遇的条件，再处理这些条件所产生的回应。本文从《山重水复》《Fafalish》《YourTube》《实像》及P4的共同制作出发，讨论图像的接缝、观看的位置与参与者的决定权，继而考察《人类投降派》中现场开放与成片选择之间的张力。《关系生成影像论》、影像随笔及数字档案被放回各自的版本与用途之中。文章主张，对这组实践的评价应当同时考察形式如何组织经验、合作怎样分配劳动，以及不同意见能否改变作品的下一步；“生成”与“非主权”不能预先替作品免除这些判断。",
+    "url": "https://hehefa.github.io/he-fa-critical-monograph/",
+    "mainEntityOfPage": "https://hehefa.github.io/he-fa-critical-monograph/",
+    "datePublished": "2026-10-25",
+    "dateModified": "2026-10-25",
+    "inLanguage": "zh-CN",
+    "genre": "艺术批评",
+    "version": "1.0",
+    "creditText": "基于 Gemini 对话稿改写，何发整理发布",
+    "editor": {
+      "@type": "Person",
+      "name": "何发",
+      "alternateName": "He Fa"
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": "何发",
+      "url": "https://hefa.p4theater.cn/"
+    },
+    "about": [
+      {
+        "@type": "Person",
+        "name": "何发",
+        "alternateName": [
+          "He Fa",
+          "Fa He",
+          "deaddrama"
+        ],
+        "url": "https://hefa.p4theater.cn/"
+      },
+      {
+        "@type": "PerformingGroup",
+        "name": "P4剧场",
+        "alternateName": "P4 Theater"
+      }
+    ],
+    "isBasedOn": {
+      "@type": "CreativeWork",
+      "name": "Gemini 分享对话",
+      "url": "https://share.gemini.google/dZcp9dLbRktq"
+    },
+    "associatedMedia": {
+      "@type": "MediaObject",
+      "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/article.pdf",
+      "encodingFormat": "application/pdf"
+    },
+    "keywords": [
+      "何发",
+      "He Fa",
+      "P4剧场",
+      "P4 Theater",
+      "人类投降派",
+      "关系生成影像论",
+      "艺术批评",
+      "档案伦理"
+    ],
+    "copyrightNotice": "All rights reserved; publicly readable.",
+    "alternativeHeadline": "Who Can Bring the Work to a Halt? Viewing, Collective Creation, and Archives in He Fa’s Practice"
+  }
+}
