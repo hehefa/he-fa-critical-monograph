@@ -1,40 +1,15 @@
 {
-  "title": "谁能让作品停下来",
-  "page_title": "谁能让作品停下来｜何发艺术实践中的观看、共同创作与档案",
-  "subtitle": "何发艺术实践中的观看、共同创作与档案",
-  "title_en": "Who Can Bring the Work to a Halt? Viewing, Collective Creation, and Archives in He Fa’s Practice",
-  "credit": "基于 Gemini 对话稿改写，何发整理发布",
-  "editor": "何发 / He Fa",
-  "source": "https://share.gemini.google/dZcp9dLbRktq",
-  "manuscript": "改写定稿.md",
-  "manuscript_sha256": "2dc5bec472361f870fba0e67e2f2b78974409c92d81f4dfa561484f8d156ccff",
-  "version": "1.0",
-  "edition": "改写版",
+  "title": "悬置的断头台",
+  "subtitle": "论何发艺术实践中的装置症候、对抗美学与档案地形学",
+  "title_en": "The Suspended Guillotine: Apparatus Symptoms, Antagonistic Aesthetics, and Archival Topography in He Fa’s Practice",
+  "author": "岑照",
   "date": "2026-10-25",
   "language": "zh-CN",
-  "full_text_language": "中文",
-  "abstract_languages": [
-    "zh-CN",
-    "en"
-  ],
-  "abstract_zh": "何发的摄影、语言实验、P4剧场与电影实践，反复涉及一项具体工作：安排人们相遇的条件，再处理这些条件所产生的回应。本文从《山重水复》《Fafalish》《YourTube》《实像》及P4的共同制作出发，讨论图像的接缝、观看的位置与参与者的决定权，继而考察《人类投降派》中现场开放与成片选择之间的张力。《关系生成影像论》、影像随笔及数字档案被放回各自的版本与用途之中。文章主张，对这组实践的评价应当同时考察形式如何组织经验、合作怎样分配劳动，以及不同意见能否改变作品的下一步；“生成”与“非主权”不能预先替作品免除这些判断。",
-  "abstract_en": "He Fa’s work in photography, language experiments, P4 Theater and film repeatedly involves arranging the conditions of an encounter and working with the responses those conditions produce. This essay considers photographic seams, viewing positions and participants’ decision-making through Mountain upon Mountain, Fafalish, YourTube, Real Image and P4’s collaborative productions. It then examines the tension between openness during production and selection in the completed film Shoot Self with You. Relational Image Theory, retrospective video essays and digital archives are discussed in relation to their particular versions and uses. The essay proposes that these practices be assessed through the experience their forms produce, the distribution of collaborative labour, and the capacity of disagreement to change what happens next.",
+  "abstract_zh": "何发的摄影、语言实验、P4剧场与电影实践，始终围绕一项极具危险性的核心工作展开：精心布设一套让人们相遇的严苛条件，再将作者自身与作品一并抛入这些条件所引出的对抗性回应之中。本文通过引入米歇尔·福柯与乔治·阿甘本的“装置（Dispositif）”哲学、克莱尔·毕晓普的“对抗性关系美学”、雅克·朗西埃的“感性分配”以及雅克·德里达的“档案热病”，与何发的具体作品相互对读。文章从《山重水复》《Fafalish》《YourTube》《实像》及P4的集体制作出发，剖析图像的知识考古接缝、次文化编码的排他性以及合作契约中的劳动分配；继而通过与让·鲁什“真实电影”及皮兰德娄元戏剧的比较，直刺《人类投降派》中“现场造反”与“剪辑主权”之间的惊险拉锯。《关系生成影像论》、回顾性影像随笔及数字档案被放回各自真实的历史版本与权力摩擦中。本文主张，评价这组实践不能依赖“生成”或“非主权”的先验理论豁免，而必须考察形式如何组织经验、合作怎样分配负担，以及不同意见是否真正具备让庞大的艺术机器当场停摆的力量。",
+  "abstract_en": "He Fa's work in photography, language experiments, P4 Theater, and experimental cinema repeatedly involves arranging rigorous conditions for an encounter and working with the antagonistic responses those conditions produce. Situating He Fa within a comparative theoretical coordinate system—drawing on Foucault and Agamben's philosophy of the dispositif (apparatus), Claire Bishop's critique of relational aesthetics, Jacques Rancière's \"distribution of the sensible,\" and Jacques Derrida's Archive Fever—this essay examines photographic seams, viewing positions, and participants' decision-making through Shanshui, Fafalish, YourTube, Real Image, and P4's collaborative productions. It then contrasts Shoot Self with You with Jean Rouch's cinéma vérité and Pirandellian metatheatre to examine the tension between live openness and editorial sovereignty. Relational Image Theory, retrospective video essays, and digital archives are assessed in relation to their specific versions and uses. The essay argues that these practices must be judged by the experience their forms produce, the distribution of collaborative labor, and the capacity of disagreement to bring the artistic machine to a halt.",
   "canonical_url": "https://hehefa.github.io/he-fa-critical-monograph/",
-  "peer_reviewed": false,
-  "rights": "All rights reserved; publicly readable.",
-  "doi": {
-    "identifier": "10.5281/zenodo.23623320",
-    "status": "published"
-  },
-  "version_note": "以原 Gemini 评论为起点，经第一手资料核对后重新写作。保留观看、共同创作与档案的批评主线，补充合作署名，移除未经核实的精确时间码、人物心理推定与技术绝对保证。",
-  "corrections": [
-    "重写开篇、标题及六部分论证，以具体作品和公开文献支持判断。",
-    "区分参与照片公开的决定权、现场安排与成片剪辑权。",
-    "补回黄伊尹、曲文豪、北风剧社及3P成员的合作分工。",
-    "以P4U原始条款讨论创作开放与组织、发行权并存。",
-    "将AGT与《关系生成影像论》作为后出理论讨论，不倒推为全部早期作品的既定意图。",
-    "区分散列校验与防篡改、网页交互与服务端日志、整理年份与演出日期。"
-  ],
+  "manuscript_sha256": "800355186cd6e701eda9643ab476cd3adf05f0614de8a31c96134dd2a8bdd97e",
+  "rights": "Text: all rights reserved; publicly readable. Images retain their individual credits and licences as stated in their captions.",
   "core_video_links": [
     "https://www.youtube.com/watch?v=2_9W2uRHgWM",
     "https://www.youtube.com/watch?v=6fWDICcOKDE",
@@ -43,25 +18,65 @@
     "https://www.youtube.com/watch?v=e_6FRaroiSM",
     "https://www.youtube.com/watch?v=h2F6Bpk-9m8"
   ],
-  "chinese_characters_in_body": 7993,
+  "figures": [
+    {
+      "src": "images/01-shanshui-red.jpg",
+      "alt": "一幅由不同照片拼接而成的山水，天空、山峰与树林之间保留细密接缝",
+      "caption": "图1｜何发，《山重水复——红》，2012，数字摄影拼贴。完整画面。图像出处"
+    },
+    {
+      "src": "images/02-fafalish.webp",
+      "alt": "Fafalish展场中，文字纸页沿墙面与立柱铺开",
+      "caption": "图2｜何发，《Fafalish》，2017，CCA Simpson Library，旧金山。图片：CCA/C Archives，CC BY-NC 4.0。许可图像出处"
+    },
+    {
+      "src": "images/03-yourtube.webp",
+      "alt": "墙面与地面的多块显示屏面向由彩色管材连接的环形矮凳",
+      "caption": "图3｜何发，《YourTube》，2018，多屏影像装置。墙面屏幕、地面CRT与相连的六张矮凳。图像出处"
+    },
+    {
+      "src": "images/04-shixiang.webp",
+      "alt": "黑色舞台上的大画幅相机、柔光伞、灯与烟雾",
+      "caption": "图4｜《实像》，2019—2020，舞台工作记录。张绍华与何发共同推进；图片：P4剧场。图像出处"
+    },
+    {
+      "src": "images/05-cocoon.webp",
+      "alt": "茧房舞台上三名人物相互分开，白墙留在后方",
+      "caption": "图5｜《茧房》，2020，项目现场记录。导演：黄伊尹；何发参与制作、组织与记录。图片：P4剧场。图像出处"
+    },
+    {
+      "src": "images/06-iceberg.webp",
+      "alt": "狭小空间里，人物在紫红光中近距离相向围坐",
+      "caption": "图6｜《冰山》，2021—2022，项目现场。北风剧社集体创作，何发担任制作人；图片：P4剧场。图像出处"
+    },
+    {
+      "src": "images/07-human-surrender.jpg",
+      "alt": "半透明围挡内外的人物与观看位置，人物分处不同景深",
+      "caption": "图7｜《人类投降派》，2023—2024，影片公开场静帧。何发导演，剧组共同创作；图片：P4剧场。图像出处"
+    },
+    {
+      "src": "images/08-nobodys-return.jpg",
+      "alt": "何发与何雨相对而坐，地面蜡烛留在两人之间，观看者围在周围",
+      "caption": "图8｜《森林记错了一个人》现场录像静帧。结尾，何发与何雨相对而坐，蜡烛留在两人之间。何发现场朗读，何雨持烛表演；资料：艺术家档案。图像出处"
+    }
+  ],
+  "numbered_reference_count": 29,
+  "chinese_characters_in_body": 10891,
   "schema_org": {
     "@context": "https://schema.org",
     "@type": "Article",
     "@id": "https://hehefa.github.io/he-fa-critical-monograph/#article",
-    "headline": "谁能让作品停下来",
-    "description": "何发的摄影、语言实验、P4剧场与电影实践，反复涉及一项具体工作：安排人们相遇的条件，再处理这些条件所产生的回应。本文从《山重水复》《Fafalish》《YourTube》《实像》及P4的共同制作出发，讨论图像的接缝、观看的位置与参与者的决定权，继而考察《人类投降派》中现场开放与成片选择之间的张力。《关系生成影像论》、影像随笔及数字档案被放回各自的版本与用途之中。文章主张，对这组实践的评价应当同时考察形式如何组织经验、合作怎样分配劳动，以及不同意见能否改变作品的下一步；“生成”与“非主权”不能预先替作品免除这些判断。",
+    "headline": "悬置的断头台",
+    "description": "何发的摄影、语言实验、P4剧场与电影实践，始终围绕一项极具危险性的核心工作展开：精心布设一套让人们相遇的严苛条件，再将作者自身与作品一并抛入这些条件所引出的对抗性回应之中。本文通过引入米歇尔·福柯与乔治·阿甘本的“装置（Dispositif）”哲学、克莱尔·毕晓普的“对抗性关系美学”、雅克·朗西埃的“感性分配”以及雅克·德里达的“档案热病”，与何发的具体作品相互对读。文章从《山重水复》《Fafalish》《YourTube》《实像》及P4的集体制作出发，剖析图像的知识考古接缝、次文化编码的排他性以及合作契约中的劳动分配；继而通过与让·鲁什“真实电影”及皮兰德娄元戏剧的比较，直刺《人类投降派》中“现场造反”与“剪辑主权”之间的惊险拉锯。《关系生成影像论》、回顾性影像随笔及数字档案被放回各自真实的历史版本与权力摩擦中。本文主张，评价这组实践不能依赖“生成”或“非主权”的先验理论豁免，而必须考察形式如何组织经验、合作怎样分配负担，以及不同意见是否真正具备让庞大的艺术机器当场停摆的力量。",
     "url": "https://hehefa.github.io/he-fa-critical-monograph/",
     "mainEntityOfPage": "https://hehefa.github.io/he-fa-critical-monograph/",
     "datePublished": "2026-10-25",
     "dateModified": "2026-10-25",
     "inLanguage": "zh-CN",
     "genre": "艺术批评",
-    "version": "1.0",
-    "creditText": "基于 Gemini 对话稿改写，何发整理发布",
-    "editor": {
+    "author": {
       "@type": "Person",
-      "name": "何发",
-      "alternateName": "He Fa"
+      "name": "岑照"
     },
     "publisher": {
       "@type": "Person",
@@ -85,11 +100,6 @@
         "alternateName": "P4 Theater"
       }
     ],
-    "isBasedOn": {
-      "@type": "CreativeWork",
-      "name": "Gemini 分享对话",
-      "url": "https://share.gemini.google/dZcp9dLbRktq"
-    },
     "associatedMedia": {
       "@type": "MediaObject",
       "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/article.pdf",
@@ -105,13 +115,53 @@
       "艺术批评",
       "档案伦理"
     ],
-    "copyrightNotice": "All rights reserved; publicly readable.",
-    "alternativeHeadline": "Who Can Bring the Work to a Halt? Viewing, Collective Creation, and Archives in He Fa’s Practice",
-    "identifier": {
-      "@type": "PropertyValue",
-      "propertyID": "DOI",
-      "value": "10.5281/zenodo.23623320"
-    },
-    "sameAs": "https://doi.org/10.5281/zenodo.23623320"
+    "copyrightNotice": "Text: all rights reserved; publicly readable. Images retain their individual credits and licences as stated in their captions.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/01-shanshui-red.jpg",
+        "caption": "图1｜何发，《山重水复——红》，2012，数字摄影拼贴。完整画面。图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/02-fafalish.webp",
+        "caption": "图2｜何发，《Fafalish》，2017，CCA Simpson Library，旧金山。图片：CCA/C Archives，CC BY-NC 4.0。许可图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/03-yourtube.webp",
+        "caption": "图3｜何发，《YourTube》，2018，多屏影像装置。墙面屏幕、地面CRT与相连的六张矮凳。图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/04-shixiang.webp",
+        "caption": "图4｜《实像》，2019—2020，舞台工作记录。张绍华与何发共同推进；图片：P4剧场。图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/05-cocoon.webp",
+        "caption": "图5｜《茧房》，2020，项目现场记录。导演：黄伊尹；何发参与制作、组织与记录。图片：P4剧场。图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/06-iceberg.webp",
+        "caption": "图6｜《冰山》，2021—2022，项目现场。北风剧社集体创作，何发担任制作人；图片：P4剧场。图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/07-human-surrender.jpg",
+        "caption": "图7｜《人类投降派》，2023—2024，影片公开场静帧。何发导演，剧组共同创作；图片：P4剧场。图像出处"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://hehefa.github.io/he-fa-critical-monograph/images/08-nobodys-return.jpg",
+        "caption": "图8｜《森林记错了一个人》现场录像静帧。结尾，何发与何雨相对而坐，蜡烛留在两人之间。何发现场朗读，何雨持烛表演；资料：艺术家档案。图像出处"
+      }
+    ],
+    "alternativeHeadline": "The Suspended Guillotine: Apparatus Symptoms, Antagonistic Aesthetics, and Archival Topography in He Fa’s Practice"
+  },
+  "doi": {
+    "identifier": "10.5281/zenodo.23633822",
+    "status": "reserved_unpublished"
   }
 }
