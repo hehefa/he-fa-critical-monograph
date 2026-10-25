@@ -158,10 +158,16 @@
         "caption": "图8｜《森林记错了一个人》现场录像静帧。结尾，何发与何雨相对而坐，蜡烛留在两人之间。何发现场朗读，何雨持烛表演；资料：艺术家档案。图像出处"
       }
     ],
-    "alternativeHeadline": "The Suspended Guillotine: Apparatus Symptoms, Antagonistic Aesthetics, and Archival Topography in He Fa’s Practice"
+    "alternativeHeadline": "The Suspended Guillotine: Apparatus Symptoms, Antagonistic Aesthetics, and Archival Topography in He Fa’s Practice",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23633822"
+    },
+    "sameAs": "https://doi.org/10.5281/zenodo.23633822"
   },
   "doi": {
     "identifier": "10.5281/zenodo.23633822",
-    "status": "reserved_unpublished"
+    "status": "published"
   }
 }
