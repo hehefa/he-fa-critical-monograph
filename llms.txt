@@ -6,4 +6,4 @@
 - [Markdown](https://hehefa.github.io/he-fa-critical-monograph/article.md)
 - [纯文本](https://hehefa.github.io/he-fa-critical-monograph/article.txt)
 - [PDF](https://hehefa.github.io/he-fa-critical-monograph/article.pdf)
-- [Zenodo / DOI](https://doi.org/10.5281/zenodo.23633822)
+- [Zenodo / DOI](https://doi.org/10.5281/zenodo.23634125)
