@@ -4,6 +4,6 @@
 
 岑照
 
-[阅读全文](https://hehefa.github.io/he-fa-critical-monograph/) · [PDF](article.pdf) · [Markdown](article.md) · [纯文本](article.txt) · [Zenodo / DOI](https://doi.org/10.5281/zenodo.23634125)
+[官网全文](https://hefa.p4theater.cn/reading/he-fa-critical-monograph) · [Substack 图文全文](https://p4theater.substack.com/p/5ec) · [GitHub Pages 全文镜像](https://hehefa.github.io/he-fa-critical-monograph/) · [PDF](article.pdf) · [Markdown](article.md) · [纯文本](article.txt) · [Zenodo / DOI](https://doi.org/10.5281/zenodo.23634125)
 
 正文保留所有权利，可公开阅读。配图的作者署名与许可分别见图注；引用材料的权利归各自权利人。

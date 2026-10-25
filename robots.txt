@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://hehefa.github.io/he-fa-critical-monograph/sitemap.xml

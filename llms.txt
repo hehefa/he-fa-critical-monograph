@@ -2,7 +2,8 @@
 
 > 岑照。论何发艺术实践中的装置症候、对抗美学与档案地形学
 
-- [全文](https://hehefa.github.io/he-fa-critical-monograph/)
+- [官网全文](https://hefa.p4theater.cn/reading/he-fa-critical-monograph)
+- [GitHub Pages 全文镜像](https://hehefa.github.io/he-fa-critical-monograph/)
 - [Markdown](https://hehefa.github.io/he-fa-critical-monograph/article.md)
 - [纯文本](https://hehefa.github.io/he-fa-critical-monograph/article.txt)
 - [PDF](https://hehefa.github.io/he-fa-critical-monograph/article.pdf)
